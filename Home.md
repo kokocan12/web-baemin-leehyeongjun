@@ -1,1 +1,1 @@
-hello
+- [기술적인 도전](https://github.com/woowa-techcamp-2022/web-baemin-leehyeongjun/wiki/%EA%B8%B0%EC%88%A0%EC%A0%81%EC%9D%B8-%EB%8F%84%EC%A0%84)
